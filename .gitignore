@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Test reports
+reports/
+screenshots/
+
+# IDE
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
